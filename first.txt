@@ -3,3 +3,4 @@
 3. GIT ADD 
    GIT COMMITの学習
 4. GIT RMの学習
+5. GIT STATUSの学習
