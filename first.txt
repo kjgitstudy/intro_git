@@ -4,3 +4,4 @@
    GIT COMMITの学習
 4. GIT RMの学習
 5. GIT STATUSの学習
+6. GIT DIFF
