@@ -2,3 +2,4 @@
 2. 基本的なワークフローの学習
 3. GIT ADD 
    GIT COMMITの学習
+4. GIT RMの学習
